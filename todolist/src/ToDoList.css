@@ -1,0 +1,20 @@
+.containheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px; 
+  }
+
+  .listgroupItems{
+    margin-bottom: 10px;
+    
+}
+
+.TodoAppForm {
+    background-color: lightgreen;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+}
